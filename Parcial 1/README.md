@@ -1,7 +1,7 @@
 # Parcial 1 - Solución.
 
 ## Punto 1: ¿Qué tipo de variables tiene el dataset? Detalle el tipo de variable de cada columna.
-gender                          object
+gender                          object <br>
 race/ethnicity                  object
 parental level of education     object
 lunch                           object
