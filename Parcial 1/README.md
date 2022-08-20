@@ -33,6 +33,6 @@ master's degree       12.31% <br>
 some high school      11.54% <br>
 high school            5.38% <br>
 
-# Punto 7. ¿Qué porcentaje de los estudiantes obtuvieron puntajes iguales o superiores a 90 en las tres asignaturas? De estos estudiantes, ¿que porcentaje estudió para los exámenes?
+## Punto 7. ¿Qué porcentaje de los estudiantes obtuvieron puntajes iguales o superiores a 90 en las tres asignaturas? De estos estudiantes, ¿que porcentaje estudió para los exámenes?
 Solo el 1.9% de los estudiantes obtuvieron puntajes iguales o superiores a 90 en las tres asignaturas. <br>
 El 52.63% de los estudiantes que obtuvieron puntajes iguales o superiores a 90 en las tres asignaturas estudió para los exámenes.
