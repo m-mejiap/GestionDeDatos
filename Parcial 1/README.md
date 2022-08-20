@@ -22,6 +22,7 @@ A partir de las gráficas, se puede determinar que las distribuciones de los 3 p
 Sí, los 3 puntajes están altamente correlacionados. En especial, los puntajes que presentan mayor correlación son 'writing score' y 'reading score'.
 
 ## Punto 5. ¿Hay alguna diferencia observable en los puntajes de la asignatura de matemáticas entre géneros? ¿Qué género obtuvo en promedio los mejores puntajes?
+No hay ninguna diferencia observable en los puntajes de la asignatura de matemáticas entre géneros. <br>
 El género masculino obtuvo en promedio los mejores puntajes de la asignatura de matemáticas.
 
 ## Punto 6. ¿Qué nivel de escolaridad tienen los padres de los estudiantes que obtuvieron un puntaje por encima del percentil 85 en la asignatura de escritura? ¿Cómo se distribuye la escolaridad entre esta población?
